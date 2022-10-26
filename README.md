@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A simple app used to fetch latest news from all over the world using the newsapi.org endpoint.
 
 ## Getting Started
 
